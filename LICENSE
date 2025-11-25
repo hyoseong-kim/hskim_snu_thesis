@@ -1,21 +1,19 @@
-MIT License
+Terms of License
 
 Copyright (c) 2025 hyoseong-kim
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+이 리포지토리는 김효성(서울대학교 사회학과 석사과정)의 졸업논문 작성과 작성 과정의 투명성 확보를 위하여 작성되는 것으로서,
+하기 사항을 제외한 별도의 제한 없이 열람, 복사, 수정, 전재, 출판 등 행위 일체를 허가합니다.
+단, 학술적 목적으로 이용될 때는 저자와 출처를 포함한 적절한 인용 표기가 있어야 하며,
+상업적 이용은 저자의 명시적인 허가 없이는 불가능합니다.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+저자는 리포지토리의 내용, 파일 등을 적합성, 타당성 등에 대한 일체의 보증 없이 "있는 그대로" 제공합니다.
+어떠한 경우에도 저자는 이 리포지토리 구성물의 사용과 관련한 계약, 불법 행위, 기타 청구, 손해 등 일체의 책임을 지지 않습니다.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This repository was created to ensure transparency in the writing and writing process of Kim Hyo-seong (Master's candidate, Department of Sociology, Seoul National University).
+All activities, including viewing, copying, editing, reprinting, and publishing, are permitted without any restrictions, except as noted below.
+However, when used for academic purposes, proper citations, including the author and source, are required.
+Commercial use is prohibited without the author's explicit permission.
+
+The author provides the contents and files of this repository "as is" without any warranties of suitability or validity.
+In no event shall the author be liable for any other claims, damages, or other liability related to the use of any of the contents of this repository.
